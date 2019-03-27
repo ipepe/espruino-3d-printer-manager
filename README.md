@@ -15,6 +15,15 @@ Espruino powered 3D Printer Manager. Mainly focued on streaming gcode from conne
  * https://github.com/camswords/gulp-espruino
  * https://github.com/gulp-community/gulp-coffee
  
+## How to
+
+### 1. Flashing Espruino on Wemos D1 Mini (PRO)
+
+`python esptool.py --port /dev/tty.usbserial-1410 --baud 115200 write_flash  --flash_freq 80m --flash_mode dio --flash_size 4MB-c1  0x0000 espruino/espruino_2v01_esp8266_4mb_combined_4096.bin` 
+ 
+### 2. Uploading `My3DPrinterManager` code to microcontroller
+`TODO: https://www.espruino.com/Saving`
+
 ## License
 MIT License
 
