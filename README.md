@@ -2,6 +2,7 @@
 Espruino powered 3D Printer Manager. Mainly focued on streaming gcode from connected SDCard.
 
 ## Wanted Features
+ * https://github.com/probonopd/WirelessPrinting/issues/132
  * https://github.com/probonopd/WirelessPrinting/issues/5
  * https://github.com/probonopd/WirelessPrinting/issues/109
  * https://github.com/probonopd/WirelessPrinting/issues/110
