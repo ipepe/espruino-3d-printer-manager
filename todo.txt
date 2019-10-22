@@ -1,0 +1,13 @@
+1. (done) Setup SDCard read/write for ESP32 (*ESP8266)
+2. Handle file uploads to SD Card
+3. Create Octoprint API (initially)
+4. Setup serving HTML files from sdcard/wwwroot
+5. Setup software serial for ESP32 (*ESP8266)
+6. Refine OctoPrint API
+
+Links:
+https://www.espruino.com/File+IO
+https://wiki.ai-thinker.com/_media/esp32/docs/esp32_chip_pin_list_en.pdf
+https://www.seeedstudio.com/ESP32-CAM-Development-Board-with-camer-p-3153.html
+https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/
+https://github.com/espruino/Espruino/issues/226#issuecomment-181443491
