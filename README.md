@@ -1,5 +1,5 @@
-# espruino-my-3d-printer-manager
-Espruino powered 3D Printer Manager. Mainly focued on streaming gcode from connected SDCard.
+# ESPruinto
+Espruino powered 3D Printer Manager. Mainly focued on streaming gcode from connected SDCard and accepting files through Octroprint API
 
 ## Wanted Features
  * https://github.com/probonopd/WirelessPrinting/issues/132
