@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ipepe/espruino-my-3d-printer-manager#readme",
   "devDependencies": {
-    "espruino": "^0.1.28"
+    "espruino": "^0.1.56"
   }
 }
